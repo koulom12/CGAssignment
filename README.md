@@ -1,2 +1,1 @@
-# CGAssignment
-Code to demonstrate Simulation of phases of moon using OpenGl.
+Code to demonstrate Simulation of phases of moon using OpenGl.In this program we showcase the camera orbits a lit moon to simulate the phases of moon.Half of the Moon’s surface is always illuminated by sunlight.We are showing the phase by using the lighting property of OpenGL. We have used the GL_LIGHT0 to focus the light on the moon, making all the phases visible as it goes. Pointing in the direction of vertex (1,1,1) it's is possible to show all the phases of moon.
